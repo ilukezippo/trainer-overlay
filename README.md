@@ -1,4 +1,4 @@
-# TrainerOverlayExternal
+# Trainer Overlay
 
 A lightweight **Windows overlay** for managing and using game trainers with a **controller-friendly UI** (XInput + DirectInput), **system tray support**, and a **JSON-based trainer library**.
 
@@ -44,11 +44,41 @@ A lightweight **Windows overlay** for managing and using game trainers with a **
 
 ---
 
-## Installation (Recommended)
+## Download
 
-1. Download the **latest release** from the repo’s Releases page.
-2. Extract the zip anywhere (example: `C:\TrainerOverlay\`).
-3. Run `TrainerOverlayExternal.exe`.
+Get the latest build from **Releases**:
+- **Latest Release:** https://github.com/ilukezippo/trainer-overlay/releases/latest
 
-### Folder layout (runtime)
+You can use either the **Installer (SFX)** or the **Portable** version.
+
+---
+
+## Option 1 — Installer (SFX RAR)
+
+1. Download: **`TrainerOverlay_v1.0_installer.exe`** from Releases  
+   (this is a self-extracting RAR / installer)
+2. Run it as Administrator (recommended).
+3. Choose an install folder (example: `C:\TrainerOverlay\`)
+4. Launch `Trainer Overlay` Desktop Shortcut
+
+> Windows SmartScreen may warn on first run (common for unsigned apps).  
+> Click **More info → Run anyway** if you trust the download source.
+
+---
+
+## Option 2 — Portable
+
+1. Download: **`<YOUR_PORTABLE_FILE_NAME>.zip`** from Releases
+2. Extract anywhere (example: `D:\Apps\TrainerOverlay\`)
+3. Run `TrainerOverlayExternal.exe`
+
+✅ Portable version keeps everything in the same folder (recommended for handheld PCs like ROG Ally).
+
+---
+
+## Runtime Folder Layout
+
+Make sure these exist next to the exe (or inside the same folder structure):
+
+
 
