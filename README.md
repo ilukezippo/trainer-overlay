@@ -68,17 +68,13 @@ You can use either the **Installer (SFX)** or the **Portable** version.
 
 ## Option 2 — Portable
 
-1. Download: **`<YOUR_PORTABLE_FILE_NAME>.zip`** from Releases
+1. Download: **`TrainerOverlay_v1.0_Portable.zip`** from Releases
 2. Extract anywhere (example: `D:\Apps\TrainerOverlay\`)
 3. Run `TrainerOverlayExternal.exe`
 
-✅ Portable version keeps everything in the same folder (recommended for handheld PCs like ROG Ally).
+✅ Portable version keeps everything in the same folder.
 
 ---
-
-## Runtime Folder Layout
-
-Make sure these exist next to the exe (or inside the same folder structure):
 
 
 
