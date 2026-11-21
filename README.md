@@ -35,8 +35,11 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="shots/download-cheats.png" width="340" alt="Download Cheats window"><br><sub>Download Cheats</sub></td>
-    <td align="center"><img src="shots/choose-game.png" width="340" alt="Choose Game window"><br><sub>Choose Game</sub></td>
+    <td align="center" valign="top"><img src="shots/trainer-loaded.png" width="240" alt="Trainer Overlay with the Atomic Heart trainer loaded"><br><sub>A trainer loaded</sub></td>
+    <td align="center" valign="top">
+      <img src="shots/download-cheats.png" width="300" alt="Download Cheats window"><br><sub>Download Cheats</sub><br><br>
+      <img src="shots/choose-game.png" width="300" alt="Choose Game window"><br><sub>Choose Game</sub>
+    </td>
   </tr>
 </table>
 
