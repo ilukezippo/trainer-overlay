@@ -33,9 +33,12 @@
   <a href="#included-trainers">Trainers</a>
 </p>
 
-<p align="center">
-  <img src="shots/overlay.png" width="260" alt="Trainer Overlay panel">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="shots/download-cheats.png" width="340" alt="Download Cheats window"><br><sub>Download Cheats</sub></td>
+    <td align="center"><img src="shots/choose-game.png" width="340" alt="Choose Game window"><br><sub>Choose Game</sub></td>
+  </tr>
+</table>
 
 <p align="center"><sub>If Trainer Overlay saves you time, a ⭐ star on this page helps other people find it.</sub></p>
 
