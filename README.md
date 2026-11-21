@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/downloads/ilukezippo/trainer-overlay/total?label=downloads&color=0a84c6" alt="Downloads"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/downloads/ilukezippo/trainer-overlay/total?label=downloads&color=7a4fba" alt="Downloads"></a>
   <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/ilukezippo/trainer-overlay?color=2b2c30" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-2b2c30" alt="Windows 10 and 11">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-2b2c30" alt="MIT License"></a>
-  <a href="../../stargazers"><img src="https://img.shields.io/github/stars/ilukezippo/trainer-overlay?style=flat&color=0a84c6" alt="GitHub stars"></a>
+  <a href="../../stargazers"><img src="https://img.shields.io/github/stars/ilukezippo/trainer-overlay?style=flat&color=7a4fba" alt="GitHub stars"></a>
 </p>
 
 <p align="center">
